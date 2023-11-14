@@ -1,0 +1,23 @@
+{
+  "name": "js-projects",
+  "version": "1.0.0",
+  "description": "Node JS Course ",
+  "main": "ServerClientConnection/package_tutorial.js",
+  "scripts": {
+    "dev": "nodemon ServerClientConnection/advanced_routing_express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rembqq/JS-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": "https://github.com/Rembqq/JS-projects/issues",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}

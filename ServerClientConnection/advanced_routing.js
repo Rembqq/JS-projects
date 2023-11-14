@@ -11,6 +11,7 @@ const PORT = 3000;
 // everything else explained in app.js comments
 const server = http.createServer((req, res) => {
     console.log('Server Request');
+    console.log('Just for test');
 
     res.setHeader('Content-Type', 'text/html');
 
